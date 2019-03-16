@@ -1,4 +1,3 @@
-setwd("C:/Users/tsraj/Desktop/Acadgild students projects/project2")
 library(readxl)
 Churn <- read_excel("Churn.xls")
 View(Churn)
